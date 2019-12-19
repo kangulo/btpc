@@ -1,0 +1,56 @@
+/*
+Theme Name: BTPC
+Author: Kevin Angulo
+Author URI: https://www.kevinangulo.com/
+Version: 1.0.0
+License: GNU General Public License v3 or later
+Text Domain: btpc
+*/
+
+/***********************************
+BASE STYLES
+***********************************/
+
+// COLORS
+$white:#FFF;
+$black:#000;
+$base: #004888;
+$primary: #01CE7B;
+$secondary: #FF5B34;
+// FONTS
+$roboto: "roboto",
+sans-serif;
+$robotoBold: "roboto-bold",
+sans-serif;
+// MIXIN
+@import 'mixin';
+// ICON FONTS
+@import 'icon';
+@import 'base';
+/***********************************
+BASE STYLES
+***********************************/
+
+@import 'mix';
+/***********************************
+HEADER STYLES
+***********************************/
+
+/***********************************
+HOMEPAGE STYLES
+***********************************/
+
+/***********************************
+FOOTER STYLES
+***********************************/
+
+/***********************************
+DEFAULT STYLES
+***********************************/
+
+/***********************************
+404 STYLES
+***********************************/
+
+@import 'basic';
+@import 'responsive';
